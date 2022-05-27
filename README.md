@@ -1,1 +1,1 @@
-Daily 1 Code Wars challenge
+Daily Code Wars Challenge Solutions
