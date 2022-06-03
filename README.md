@@ -3,8 +3,9 @@
 ## CodeWars Challenges: <a target="_blank" href="https://www.codewars.com/users/rahul02" >See my profile here</a> 
 My Clan : #100Devs - leonnoel.com/twitch
 
-![alt tag](codewars.png)
-A repository filled with my solutions of Codewars challenges (kata). Currently Ranked #1305 on the global leaderboard, Completed over 100+ challenges and pushed one solution every day.
+A repository filled with my solutions of Codewars challenges (kata). Currently Ranked #4205 on the global leaderboard, Completed over 100+ challenges and pushed one solution every day.
+
+![alt tag](https://github.com/rahulkarda/CodeWars/blob/master/images/codewars7kyu.png?raw=true)
 
 This is my Codewars Profile Badge, current status:
 
@@ -26,3 +27,5 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 
 The Biggest Lesson I learned in tackling this endless supply of questions is understanding that there is a long way to go. Not being able to answer a question is okay, as long as you take the initiative to improve. Getting better with time is the journey I am following.
 
+<!-- CodeWars User API -->
+<!-- https://www.codewars.com/api/v1/users/rahul02 -->
