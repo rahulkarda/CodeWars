@@ -3,7 +3,7 @@
 ## CodeWars Challenges: <a target="_blank" href="https://www.codewars.com/users/rahul02" >See my profile here</a> 
 My Clan : #100Devs - leonnoel.com/twitch
 
-A repository filled with my solutions of Codewars challenges (kata). Currently Ranked #382,726 on the global leaderboard, Completed over 20+ challenges and pushed one solution every day.
+A repository filled with my solutions of Codewars challenges (kata). Currently Ranked #247,953 on the global leaderboard, Completed over 30+ challenges and pushed one solution every day.
 
 ![alt tag](https://github.com/rahulkarda/CodeWars/blob/master/images/codewars6kyu.png?raw=true)
 
@@ -15,7 +15,8 @@ This is my Codewars Profile Badge, current status:
 
 <!-- **Tech used:**  -->
 <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
-<!-- <img src="https://img.shields.io/static/v1?label=|&message=CPP&color=3c7f5d&style=plastic&logo=cplusplus"/> -->
+<img src="https://img.shields.io/static/v1?label=|&message=CPP&color=3c7f5d&style=plastic&logo=cplusplus"/>
+<img src="https://img.shields.io/static/v1?label=|&message=Python&color=3c7f5d&style=plastic&logo=python"/>
 
 Everyday, the first thing I do is solve a Codewars challenge! 
 
