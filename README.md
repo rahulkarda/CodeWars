@@ -3,7 +3,7 @@
 ## CodeWars Challenges: <a target="_blank" href="https://www.codewars.com/users/rahul02" >See my profile here</a> 
 My Clan : #100Devs - leonnoel.com/twitch
 
-A repository filled with my solutions of Codewars challenges (kata). Currently Ranked #247,953 on the global leaderboard, Completed over 30+ challenges and pushed one solution every day.
+A repository filled with my solutions of Codewars challenges (kata). Currently Ranked #185,720 on the global leaderboard, Completed over 35+ challenges and pushed one solution every day.
 
 ![alt tag](https://github.com/rahulkarda/CodeWars/blob/master/images/codewars6kyu.png?raw=true)
 
@@ -26,7 +26,7 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 
 ## Lessons Learned:
 
-The Biggest Lesson I learned in tackling this endless supply of questions is understanding that there is a long way to go. Not being able to answer a question is okay, as long as you take the initiative to improve. Getting better with time is the journey I am following.
+The biggest lesson I learned in tackling this endless supply of questions is understanding that there is a long way to go. Not being able to answer a question is okay, as long as you take the initiative to improve. Getting better with time is the journey I am following.
 
 <!-- CodeWars User API -->
 <!-- https://www.codewars.com/api/v1/users/rahul02 -->
