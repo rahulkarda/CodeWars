@@ -5,7 +5,7 @@ My Clan : #100Devs - leonnoel.com/twitch
 
 A repository filled with my solutions of Codewars challenges (kata). Currently Ranked #55,046 on the global leaderboard, Completed over 60+ challenges and pushed one solution every day.
 
-![Ranking](https://github.com/rahulkarda/CodeWars/blob/master/images/codewars5kyu.png?raw=true)
+![Ranking](https://github.com/rahulkarda/CodeWars/blob/master/images/codewars4kyu.png?raw=true)
 
 This is my Codewars Profile Badge, current status:
 
